@@ -1,5 +1,5 @@
 ,original_variable,new_variable
-0,sid,sid
+0,Student ID,sid
 1,"ES 1.1 
 (2 points)",Es_1_1
 2,"ES 1.2 
@@ -33,4 +33,4 @@
 16,"ES 6.2
 (15 points)",Es_6_2
 17,"TOTAL
-(100 points)",final_scr
+(100 points)",final_score

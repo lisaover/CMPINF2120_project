@@ -1,0 +1,17 @@
+,original_variable,new_variable
+0,session,sess
+1,student_id,sid
+2,exercise,ex
+3,activity,act
+4,act_grp,act_grp
+5,act_ex,act_ex
+6,start_time,start_tm
+7,end_time,end_tm
+8,total_tm,total_tm
+9,idle_time,idle_tm
+10,mouse_wheel,mw
+11,mouse_wheel_click,mwc
+12,mouse_click_left,mcl
+13,mouse_click_right,mcr
+14,mouse_movement,mm
+15,keystroke,ks

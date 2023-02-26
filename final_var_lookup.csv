@@ -1,0 +1,36 @@
+,original_variable,new_variable
+0,sid,sid
+1,"ES 1.1 
+(2 points)",Es_1_1
+2,"ES 1.2 
+(3 points)",Es_1_2
+3,"ES 2.1
+(2 points)",Es_2_1
+4,"ES 2.2
+(3 points)",Es_2_2
+5,"ES 3.1
+(1 points)",Es_3_1
+6,"ES 3.2
+(2 points)",Es_3_2
+7,"ES 3.3
+(2 points)",Es_3_3
+8,"ES 3.4
+(2 points)",Es_3_4
+9,"ES 3.5
+(3 points)",Es_3_5
+10,"ES 4.1
+(15 points)",Es_4_1
+11,"ES 4.2
+(10 points)",Es_4_2
+12,"ES 5.1
+(2 points)",Es_5_1
+13,"ES 5.2
+(10 points)",Es_5_2
+14,"ES 5.3
+(3 points)",Es_5_3
+15,"ES 6.1
+(25 points)",Es_6_1
+16,"ES 6.2
+(15 points)",Es_6_2
+17,"TOTAL
+(100 points)",final_scr

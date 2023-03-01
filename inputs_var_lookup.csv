@@ -5,10 +5,10 @@
 3,activity,act
 4,activity_group,activity_group
 5,activity_exercise,activity_exercise
-6,start_time,start_tm
-7,end_time,end_tm
-8,total_time,total_time
-9,idle_time,idle_tm
+6,start_time,start_dt
+7,end_time,end_dt
+8,total_ms,total_ms
+9,idle_time,idle_ms
 10,mouse_wheel,mw
 11,mouse_wheel_click,mwc
 12,mouse_click_left,mcl

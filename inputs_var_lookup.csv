@@ -3,8 +3,8 @@
 1,student_id,sid
 2,exercise,ex
 3,activity,act
-4,activity_group,activity_group
-5,activity_exercise,activity_exercise
+4,activity_group,act_grp
+5,activity_exercise,act_ex
 6,start_time,start_dt
 7,end_time,end_dt
 8,total_ms,total_ms

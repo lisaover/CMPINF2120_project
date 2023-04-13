@@ -1,10 +1,10 @@
 original_variable,new_variable
 session,sess
 student_id,sid
-exercise,ex
-activity,act
-activity_group,act_grp
-activity_exercise,act_ex
+exercise,exer
+activity,actv
+activity_group,actv_grp
+activity_exercise,actv_exer
 start_time,start_dt
 end_time,end_dt
 total_ms,total_ms
